@@ -34,6 +34,9 @@ Follow the process described in the course to `eb init` a new application and `e
 ## My Elastic Beanstalk endpoint
 http://image-filter-project-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://files.worldwildlife.org/wwfcmsprod/images/Black_Rhino_WW1106963/hero_full/4xzhm81mi7_Black_Rhino_WW1106963.jpg
 
+## My My Github Repo
+https://github.com/nyuletony/image-filter-project
+
 ## Stand Out (Optional)
 
 ### Refactor the course RESTapi
